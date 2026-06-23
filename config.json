@@ -1,0 +1,17 @@
+
+{
+  "simulation": {
+    "t_max": 0.05,
+    "dt": 1e-5
+  },
+  "circuit": {
+    "capacitance": 0.01,
+    "initial_voltage": 400,
+    "resistance": 0.05
+  },
+  "projectile": {
+    "mass": 0.015,
+    "initial_position": -0.05,
+    "friction_coefficient": 0.1
+  }
+}

@@ -1,0 +1,42 @@
+# ver 1.0
+# =========================
+# MATLAB
+# =========================
+# Záložní a dočasné soubory
+*.asv
+*.m~
+*.bak
+*.swp
+
+# Zkompilované binárky a logy
+*.mex*
+*.log
+slprj/
+
+# Datové soubory (obecně ignorovat velké soubory)
+*.mat
+# VÝJIMKA: Chceme zachovat vygenerovanou LUT tabulku v repozitáři
+!data/lut_data.mat
+
+# =========================
+# QuickField a Exporty
+# =========================
+# Ignorovat velké soubory s výsledky simulací (mesh, rozložení pole)
+*.res
+
+# Ignorovat syrové textové exporty (pokud je generujete pokaždé znovu)
+# Pokud je chcete verzovat, tyto dva řádky smažte nebo zakomentujte
+*.txt
+*.csv
+
+# =========================
+# Operační systémy
+# =========================
+# Windows
+Thumbs.db
+desktop.ini
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
