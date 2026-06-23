@@ -4,7 +4,7 @@ Tento repozitář obsahuje MATLAB simulátor elektromagnetického děla (coilgun
 
 ## Požadavky (Prerequisites)
 
-- **MATLAB** (R2021a nebo novější)
+- **MATLAB** (R2024b nebo novější)
 - **QuickField** (pro úpravy magnetického modelu a generování nových LUT)
 
 ## Instalace a naklonování repozitáře
