@@ -12,7 +12,9 @@ Tento repozitář obsahuje MATLAB simulátor elektromagnetického děla (coilgun
 Pro získání projektu k sobě použijte příkaz `git clone`. Pokud nemáte nastavené SSH klíče, použijte HTTPS odkaz.
 
 ```bash
-git clone [https://github.com/DenisKucera/coilgun-simulator.git](https://github.com/DenisKucera/coilgun-simulator.git)
+git clone https://github.com/DenisKucera/coilgun-simulator.git
+```
+```bash
 cd coilgun-simulator
 ```
 
