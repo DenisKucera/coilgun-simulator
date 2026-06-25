@@ -56,3 +56,4 @@ git add src/main.m
 // Vytvoření commitu s popisem změny
 git commit -m "Přidán výpočet kinetické energie do main.m"
 ```
+<img width="1920" height="1080" alt="WIN_20231002_09_46_56_Pro" src="https://github.com/user-attachments/assets/3c9f6f6f-865b-4c63-b94d-3eda1ba6cbe6" />
